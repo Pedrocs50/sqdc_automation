@@ -15,7 +15,6 @@ python -m app.main --indicator iuh_gerencia --publish
 ### Rodar IUH Gerência com debug, salvar JSON e publicar
 python -m app.main --indicator iuh_gerencia --debug --save-json --publish
 
-
 ### Rodar IUH Supervisão
 python -m app.main --indicator iuh_supervisao
 
