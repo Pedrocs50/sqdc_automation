@@ -1,0 +1,7 @@
+oracledb
+pandas
+python-dotenv
+openpyxl
+msal
+msal-extensions
+requests

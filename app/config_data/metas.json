@@ -1,0 +1,33 @@
+{
+    "iuh_gerencia": {
+        "default": {
+            "Meta": 0.80
+        }
+    },
+    "iuh_supervisao": {
+        "S079": {
+            "Meta": 0.75
+        },
+        "S092": {
+            "Meta": 0.82
+        }
+    },
+    "hora_extra_gerencia": {
+        "default": {
+            "Meta": 0.05
+        }
+    },
+    "hora_extra_supervisao": {
+        "S079": {
+            "Meta": 0.05
+        },
+        "S092": {
+            "Meta": 0.05
+        }
+    },
+    "turnback_gerencia": {
+    "default": {
+        "Meta": 2967
+    }
+}
+}
